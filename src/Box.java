@@ -6,9 +6,7 @@ import java.util.List;
 public class Box<T extends Fruit> {
 
 
-
-
-    private List<T> boxes;
+private List<T> boxes;
 
     public Box(T... fruits) {
         this.boxes = new ArrayList<>(Arrays.asList(fruits));

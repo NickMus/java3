@@ -1,4 +1,3 @@
-
 public class Fruit {
 
     float weight;
@@ -7,3 +6,4 @@ public class Fruit {
         return weight;
     }
 }
+
