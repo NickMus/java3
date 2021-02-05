@@ -16,7 +16,7 @@ public class Main {
 
         box1.getWeight();
 
-       // box1.addMethod(Apple);
+        box1.addMethod(Apple);
 
         box1.getWeight();
 

@@ -15,6 +15,7 @@ public class Array <T extends Object> {
         arr[b] = c;
         System.out.println(Arrays.toString(arr));
     }
+
     public T[] arrToArrList(T[] arr) {
         new ArrayList<>(Arrays.asList(arr));
         return arr;
